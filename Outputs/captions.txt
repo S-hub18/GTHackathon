@@ -1,0 +1,33 @@
+AI Creative Studio - Campaign Assets
+====================================
+
+Creative #1
+Headline: Deploy with Confidence: Production-Ready Configurations, Simplified.
+Body: Unlock seamless development and deployment with pre-configured environments. Ensure robust security and scalability for your AI/ML projects on cloud infrastructure.
+Visual Prompt: A high-angle, close-up shot of a modern, sleek laptop open to a Visual Studio Code interface. The screen prominently displays an `.env` file with clear environment variables like `ENVIRONMENT=prod`, `SECRET_KEY=backend-ai-ml-generic`, and `AWS_REGION=us-east-1`. The surrounding area is a clean, minimalist office desk with subtle depth-of-field blur. The Deloitte logo, in its iconic blue and black checkmark style, is subtly embossed on the laptop's lid, appearing as a premium, integrated design element. The lighting is soft and professional, with a gentle spotlight on the screen, highlighting the code. The overall mood is one of efficiency, security, and advanced technology.
+------------------------------------
+
+Creative #2
+Headline: Your Cloud, Your Code: Secure AI/ML Deployments Start Here.
+Body: Streamline your technical workflows with managed configurations built for the cloud. Focus on innovation, knowing your production environments are secure and optimized.
+Visual Prompt: A dynamic, eye-level shot focused on a vibrant, slightly angled screen of a Visual Studio Code editor. The `.env` file is clearly visible, showcasing the `ENVIRONMENT=prod`, `SECRET_KEY=backend-ai-ml-generic`, and `AWS_REGION=us-east-1` settings. Faint, abstract lines representing cloud data streams in Deloitte's signature blue emanate from the screen. In the background, a softly lit, modern server room environment is visible, out of focus, to suggest a robust infrastructure. The Deloitte logo is subtly integrated as a watermark behind the code, or as a small, elegant branding element in the corner of the screen. The lighting is crisp and clean, emphasizing the technological aspect.
+------------------------------------
+
+Creative #3
+Headline: From Code to Cloud: Effortless Production Environments.
+Body: Effortlessly manage your development settings for secure, scalable production. This configuration is the blueprint for your advanced AI/ML solutions on AWS.
+Visual Prompt: A flat lay composition featuring a pristine, dark-themed Visual Studio Code window as the central element. The `.env` file with `ENVIRONMENT=prod`, `SECRET_KEY=backend-ai-ml-generic`, and `AWS_REGION=us-east-1` is sharply in focus. Surrounding the laptop are minimalist, professional accessories: a sleek black stylus, a dark grey notebook, and a single, elegant desk plant. The Deloitte logo, in a monochromatic blue, is subtly printed on the notebook cover. The lighting is even and professional, creating a clean, organized aesthetic that speaks to order and precision. The overall feel is sophisticated and understated.
+------------------------------------
+
+Creative #4
+Headline: The Backbone of Innovation: Secure & Scalable AI/ML Configurations.
+Body: Build and deploy cutting-edge AI/ML applications with confidence. Our managed configurations ensure your production environment on AWS is both secure and infinitely scalable.
+Visual Prompt: A dramatic, low-angle shot looking up at a monitor displaying Visual Studio Code. The `.env` file is highlighted, emphasizing `ENVIRONMENT=prod`, `SECRET_KEY=backend-ai-ml-generic`, and `AWS_REGION=us-east-1`. Glowing, abstract elements in Deloitte's signature blue and black surround the screen, suggesting sophisticated data flow and advanced AI. The background is a dark, out-of-focus representation of a futuristic control room or data center. The Deloitte logo is subtly animated, appearing as a discreet glowing emblem on the monitor bezel. The lighting is dramatic, with strong backlighting and subtle screen glow, creating an aura of power and innovation.
+------------------------------------
+
+Creative #5
+Headline: Production-Ready, Simplified. Your AI/ML Journey, Elevated.
+Body: Accelerate your development lifecycle with meticulously crafted production configurations. Secure your applications and harness the power of cloud-native AI/ML with ease.
+Visual Prompt: A clean, studio-style shot of a laptop screen displaying the Visual Studio Code editor. The `.env` file is the hero, with clear `ENVIRONMENT=prod`, `SECRET_KEY=backend-ai-ml-generic`, and `AWS_REGION=us-east-1` values. The laptop is positioned on a polished, dark surface, with a subtle reflection. The Deloitte logo, in its balanced blue and black, is subtly integrated as a watermark on the background, or as a small, refined print on a nearby accessory like a coaster. The lighting is soft and diffused, creating a high-end product photography feel, emphasizing the clarity and professional nature of the code editor and its configuration. The angle is slightly overhead, providing a clear view of the screen content.
+------------------------------------
+
